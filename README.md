@@ -4,7 +4,7 @@
 | ------------- |:-------------:|
 | [adversarial_crypto](https://github.com/tensorflow/models/tree/master/research/adversarial_crypto) | 保护与adversarial神经密码学的通信。|
 | [adversarial_text](https://github.com/tensorflow/models/tree/master/research/adversarial_text) | 半监督序列学习与对抗性训练 | 
-| [attention_ocr](https://github.com/tensorflow/models/tree/master/research/attention_ocr) | 真实图像文本提取的模型 | 
+| [attention_ocr](https://github.com/tensorflow/models/tree/master/research/attention_ocr) | 基于注意力机制的 OCR 识别 | 
 | [audioset](https://github.com/tensorflow/models/tree/master/research/audioset) | 与audioset一起使用的模型和支持代码 | 
 | [autoencoders](https://github.com/tensorflow/models/tree/master/research/autoencoders) | 各种autoencoders | 
 | [cognitive_mapping_and_planning](https://github.com/tensorflow/models/tree/master/research/cognitive_mapping_and_planning) | 基于空间内存的映射和规划架构实现可视化导航 | 
